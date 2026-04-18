@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "ac2fe33a-a913-4106-90ac-8b9fa896d4ee",
+      "name": "shre",
+      "email": "shre@gmail.com",
+      "password": "$2b$10$8TYhLP3kh0LBis6YR0weTu/wQHUYD4Sjy0PQ4oELLWAx3BcsvEiMu",
+      "createdAt": "2026-04-18T15:15:54.473Z"
+    }
+  ],
+  "orders": []
+}
